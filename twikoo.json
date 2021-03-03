@@ -1,0 +1,227 @@
+{
+  "蛆音娘":{
+    "type":"image",
+	"container":[
+	  {
+	    "text":"蛆音娘-OK",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/蛆音娘/OK.png'>",
+	  },
+	  {
+	    "text":"蛆音娘-die",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/蛆音娘/die.png'>",
+	  },
+	  {
+	    "text":"蛆音娘-偷看",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/蛆音娘/偷看.png'>",
+	  },
+	  {
+	    "text":"蛆音娘-卖萌",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/蛆音娘/卖萌.png'>",
+	  },
+	  {
+	    "text":"蛆音娘-吃惊",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/蛆音娘/吃惊.png'>",
+	  },
+	  {
+	    "text":"蛆音娘-吃瓜",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/蛆音娘/吃瓜.png'>",
+	  },
+	  {
+	    "text":"蛆音娘-吐血",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/蛆音娘/吐血.png'>",
+	  },
+	  {
+	    "text":"蛆音娘-哭泣",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/蛆音娘/哭泣.png'>",
+	  },
+	  {
+	    "text":"蛆音娘-哼",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/蛆音娘/哼.png'>",
+	  },
+	  {
+	    "text":"蛆音娘-大笑",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/蛆音娘/大笑.png'>",
+	  },
+	  {
+	    "text":"蛆音娘-害怕",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/蛆音娘/害怕.png'>",
+	  },
+	  {
+	    "text":"蛆音娘-扶额",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/蛆音娘/扶额.png'>",
+	  },
+	  {
+	    "text":"蛆音娘-摇头",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/蛆音娘/摇头.png'>",
+	  },
+	  {
+	    "text":"蛆音娘-无语",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/蛆音娘/无语.png'>",
+	  }
+	  {
+	    "text":"蛆音娘-机智",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/蛆音娘/机智.png'>",
+	  },
+	  {
+	    "text":"蛆音娘-滑稽",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/蛆音娘/滑稽.png'>",
+	  },
+	  {
+	    "text":"蛆音娘-生气",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/蛆音娘/生气.png'>",
+	  },
+	  {
+	    "text":"蛆音娘-疑问",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/蛆音娘/疑问.png'>",
+	  },
+	  {
+	    "text":"蛆音娘-睡觉觉",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/蛆音娘/睡觉觉.png'>",
+	  },
+	  {
+	    "text":"蛆音娘-肥皂",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/蛆音娘/肥皂.png'>",
+	  }
+	]
+  },
+  
+  "小加加":{
+    "type":"image",
+	"container":[
+	  {
+	    "text":"小加加-暗中观察",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/小加加/暗中观察.png'>",
+	  },
+	  {
+	    "text":"小加加-比心",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/小加加/比心.png'>",
+	  },
+	  {
+	    "text":"小加加-不开心",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/小加加/不开心.png'>",
+	  },
+	  {
+	    "text":"小加加-对不起",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/小加加/对不起.png'>",
+	  },
+	  {
+	    "text":"小加加-尬",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/小加加/尬.png'>",
+	  },
+	  {
+	    "text":"小加加-加油",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/小加加/加油.png'>",
+	  },
+	  {
+	    "text":"小加加-快夸我",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/小加加/快夸我.png'>",
+	  },
+	  {
+	    "text":"小加加-溜了",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/小加加/溜了.png'>",
+	  },
+	  {
+	    "text":"小加加-摸头",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/小加加/摸头.png'>",
+	  },
+	  {
+	    "text":"小加加-美滋滋",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/小加加/美滋滋.png'>",
+	  },
+	  {
+	    "text":"小加加-摸鱼",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/小加加/摸鱼.png'>",
+	  },
+	  {
+	    "text":"小加加-什么",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/小加加/什么.png'>",
+	  },
+	  {
+	    "text":"小加加-生气拍桌",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/小加加/生气拍桌.png'>",
+	  },
+	  {
+	    "text":"小加加-偷笑",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/小加加/偷笑.png'>",
+	  },
+	  {
+	    "text":"小加加-想吃布里",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/小加加/想吃布里.png'>",
+	  },
+	  {
+	    "text":"小加加-耶",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/小加加/耶.png'>",
+	  }
+	]
+  },
+  
+  "小A和小B":{
+	"type":"image",
+	"container":[
+	  {
+	    "text":"小A和小B-NO",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/小A和小B/NO.png'>",
+	  },
+	  {
+	    "text":"小A和小B-OK",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/小A和小B/OK.png'>",
+	  },
+	  {
+	    "text":"小A和小B-报警",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/小A和小B/报警.png'>",
+	  },
+	  {
+	    "text":"小A和小B-捕捉",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/小A和小B/捕捉.png'>",
+	  },
+	  {
+	    "text":"小A和小B-吃瓜",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/小A和小B/吃瓜.png'>",
+	  },
+	  {
+	    "text":"小A和小B-大哭",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/小A和小B/大哭.png'>",
+	  },
+	  {
+	    "text":"小A和小B-低头",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/小A和小B/低头.png'>",
+	  },
+	  {
+	    "text":"小A和小B-哈哈",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/小A和小B/哈哈.png'>",
+	  },
+	  {
+	    "text":"小A和小B-喝茶",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/小A和小B/喝茶.png'>",
+	  },
+	  {
+	    "text":"小A和小B-撒花",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/小A和小B/撒花.png'>",
+	  },
+	  {
+	    "text":"小A和小B-司令",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/小A和小B/司令.png'>",
+	  },
+	  {
+	    "text":"小A和小B-摊手",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/小A和小B/摊手.png'>",
+	  },
+	  {
+	    "text":"小A和小B-躺",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/小A和小B/躺.png'>",
+	  },
+	  {
+	    "text":"小A和小B-问号",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/小A和小B/问号.png'>",
+	  },
+	  {
+	    "text":"小A和小B-无语",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/小A和小B/无语.png'>",
+	  },
+	  {
+	    "text":"小A和小B-应援",
+		"icon":"<img src='https://cdn.jsdelivr.net/gh/shuangovo/meme@1.1/小A和小B/应援.png'>",
+	  }
+	]
+  }
+}
